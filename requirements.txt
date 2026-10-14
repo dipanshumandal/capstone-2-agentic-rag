@@ -1,0 +1,36 @@
+# rag / agents
+langchain==0.3.27
+langchain-core==0.3.72
+langchain-community==0.3.27
+langchain-text-splitters==0.3.9
+langchain-google-genai==2.1.8
+langgraph==0.6.2
+sentence-transformers==6.1.0
+faiss-cpu==1.15.1
+rank-bm25==0.2.2
+nltk==3.10.3
+scikit-learn==1.9.1
+pandas==3.0.6
+numpy==2.4.6
+joblib==1.6.0
+python-dotenv==1.2.4
+huggingface-hub==1.33.0
+
+# evaluation
+rouge-score==0.1.2
+grandalf==0.8
+matplotlib==3.11.2
+
+# api + ui
+fastapi==0.143.0
+uvicorn==0.54.0
+pydantic==2.13.5
+httpx==0.28.1
+requests==2.34.2
+streamlit==1.65.0
+
+# notebook + dev
+ipykernel==7.4.0
+jupyter==1.1.1
+pytest==9.1.1
+ruff==0.17.0

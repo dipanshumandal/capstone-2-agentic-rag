@@ -1,0 +1,122 @@
+[
+  {
+    "question": "i dont know what i need to do to speak with a live agent",
+    "reference": "We're listening! I'm keyed into the fact that you're unsure about how to speak with a live agent. Don't worry, I'm here to help! To connect with a live agent, you can try a few different options. You can navigate to our website and look for a \"Contact Us\" or \"Support\" page, where you may find options for live chat, email, or phone support. Alternatively, you can try calling our customer service hotline at 1800-123-4567 and follow the prompts to speak with a representative. If all else fails, please provide me with your contact information, and I'll personally assist you in connecting with a live agent. We're committed to addressing your concerns and providing the support you need.",
+    "intent": "contact_human_agent",
+    "category": "contact"
+  },
+  {
+    "question": "where could i check order your order number fucking curent status",
+    "reference": "Your reach-out is appreciated! I'm sensing that you're having trouble finding the current status of your order with the order number your order number. I apologize for any frustration caused. To check the current status, I recommend visiting the 'My Orders > Track' section on our website. If you encounter any difficulties or need further assistance, please don't hesitate to let me know. My goal is to ensure that you have a seamless and satisfying experience.",
+    "intent": "track_order",
+    "category": "order"
+  },
+  {
+    "question": "I try to notify of an error with online payments",
+    "reference": "I appreciate your efforts in trying to notify us about the error with your online payments. It's important that we are aware of any issues you encounter so that we can address them promptly and ensure a smooth payment experience for you. To report the error, I recommend reaching out to our customer support team directly through our website or contacting our dedicated payment support line. They will guide you through the necessary steps to notify us about the error and work towards a resolution. Our team is committed to providing you with the assistance you need, and we are grateful for your proactive approach in reporting the issue.",
+    "intent": "payment_issue",
+    "category": "payment"
+  },
+  {
+    "question": "i have a problem with opening a ShopEase Plus account",
+    "reference": "I'm sorry to hear that you're facing difficulties in opening a ShopEase Plus account. Our aim is to ensure a seamless experience for you, so rest assured, I'm here to assist you in resolving this issue. To better understand the problem, could you please provide me with specific details about the challenge you're facing? Whether it's an error message, confusion about the process, or any other concern, sharing these details will allow me to provide you with the most effective solution. Together, we'll work towards getting your ShopEase Plus account open smoothly.",
+    "intent": "create_account",
+    "category": "account"
+  },
+  {
+    "question": "how could I see the payment methods?",
+    "reference": "I'm happy to help! I'm here to help you explore our payment methods. To view our available payment options, you can visit our website and look for the \"Payment Methods\" or \"Payments\" section. It should provide you with a comprehensive list of the payment methods we accept.\n\nAlternatively, you can reach out to our customer support team via phone, email, or live chat for personalized assistance with viewing our payment methods. Our friendly team members will be delighted to guide you through the process and answer any questions you may have.\n\nRemember, our goal is to provide you with a seamless and convenient payment experience. So please don't hesitate to reach out if you need further assistance or if you have any other concerns. We're always here to lend a helping hand!\"",
+    "intent": "check_payment_methods",
+    "category": "payment"
+  },
+  {
+    "question": "help to restore the PIN code of my profile",
+    "reference": "Definitely! I can understand your concern about restoring the PIN code of your profile and regaining access to your account. Rest assured, I'm here to guide you through the process:\n\n1. Begin by logging into your account using your current username and password.\n2. Once you're logged in, navigate to the \"Account Settings\" or \"Profile Settings\" section.\n3. Look for the option to manage or reset your PIN code.\n4. Click on that option, and you'll be prompted to provide some verification details to ensure the security of your account.\n5. Follow the instructions and provide the necessary information to reset your PIN code.\n6. After completing the verification process, you'll be able to set a new PIN code for your profile.\n\nIf you encounter any difficulties or have further questions along the way, don't hesitate to reach out. We're committed to assisting you throughout this process and ensuring the security of your account.",
+    "intent": "recover_password",
+    "category": "account"
+  },
+  {
+    "question": "where do I inform of an issue with a signup?",
+    "reference": "I appreciate you reaching out to inform us about the issue you encountered during the signup process. Your feedback is crucial in helping us improve our services. To report the issue, you can contact our support team by sending an email to support@company.com or by filling out the contact form on our website at www.shopease.com. Please provide as much detail as possible regarding the problem you faced, so we can address it effectively. We value your input and are committed to resolving the issue promptly. Thank you for bringing this to our attention, and we apologize for any inconvenience caused.",
+    "intent": "registration_problems",
+    "category": "account"
+  },
+  {
+    "question": "assistance correcting the damn data on my user account",
+    "reference": "How truly incredible it is to witness your determination in seeking assistance to correct the data on your user account!I am honored to support you throughout this process. I understand the urgency you feel, and I assure you that I'm fully committed to helping you resolve this issue promptly. To provide the most accurate solution, could you please provide me with specific details on the data that needs correction? Rest assured, I'm here to guide you every step of the way, ensuring your satisfaction and peace of mind. Together, we will rectify the situation and restore your account to its desired state.",
+    "intent": "edit_account",
+    "category": "account"
+  },
+  {
+    "question": "I want help to get my bill from the customer",
+    "reference": "Of course! I completely understand your need to obtain the bill from, the customer. Just a moment, I will assist you in retrieving it. While I'm searching for the bill, is there anything else I can assist you with? Your satisfaction is my priority.",
+    "intent": "get_invoice",
+    "category": "invoice"
+  },
+  {
+    "question": "switch to ShopEase Plus account",
+    "reference": "Sure! I'm delighted to assist you in transitioning to our ShopEase Plus account option, which offers a range of great features:\n\n1. Log in: Start by signing in to our platform using your credentials.\n2. Account Settings: Once you're logged in, navigate to your 'Settings' or 'Profile' section.\n3. Account Type: Look for an option that allows you to select or switch your account type.\n4. Choose Free Account: From the available options, select the 'ShopEase Plus' option.\n5. Confirmation: Follow the on-screen prompts to confirm the switch to the ShopEase Plus account.\n\nIf you have any questions or encounter any difficulties during the process, feel ShopEase Plus to reach out. We're here to make your transition as smooth as possible and help you make the most of our ShopEase Plus account offering. Enjoy the benefits of our platform!\"",
+    "intent": "switch_account",
+    "category": "account"
+  },
+  {
+    "question": "modifying purchase your order number",
+    "reference": "I've become conscious that you need assistance with modifying purchase number your order number. We're here to help you make the necessary adjustments to ensure you're completely satisfied with your order. Please provide details on the specific changes you would like to make, such as updating the quantity, swapping an item, or any other modifications you have in mind. Rest assured, we're committed to ensuring a seamless and enjoyable shopping experience for you.",
+    "intent": "change_order",
+    "category": "order"
+  },
+  {
+    "question": "i no longer make us of my pro account need help deleting it",
+    "reference": "We've received your message regarding the deletion of your ShopEase Plus account. I understand that you no longer utilize the account and need assistance with deleting it. I'm here to help you with the process and ensure that it is done smoothly. To proceed with the deletion, please provide me with the necessary details such as your account username or any other relevant information. Rest assured, once we have all the required details, we will delete your account according to our standard procedures.",
+    "intent": "delete_account",
+    "category": "account"
+  },
+  {
+    "question": "help me check in which cases can i ask for reimbursements",
+    "reference": "Unquestionably! I understand your need to have a clear understanding of the cases in which you can request reimbursements. Allow me to assist you by providing a breakdown of these situations:\n\n1. **Product/Service Defect:** If you receive a product or service that is defective or doesn't meet the description provided, you are generally eligible for a reimbursement.\n2. **Cancellation within Grace Period:** Should you have a change of mind and decide to cancel your purchase within the specified grace period, you will typically be able to request a refund.\n3. **Unauthorized Charges:** If you notice any charges on your account that you didn't authorize or that seem unfamiliar, we will thoroughly investigate and assist you with a potential reimbursement.\n4. **Event Cancellation:** If you purchased tickets for an event that gets canceled and there is no rescheduled date, you would normally qualify for a refund.\n5. **Duplicate Charges:** Mistakes can happen, and if you are charged more than once for the same item, please notify us promptly so we can rectify the situation and process the necessary reimbursement.\n6. **Non-receipt of Goods:** If you haven't received your ordered product within the expected timeframe, please inform us, as this may make you eligible for a refund.\n\nPlease bear in mind that each vendor or service provider may have their own specific refund policies, so it's always a good idea to consult directly with them or carefully review their terms and conditions. If you have any specific orders or concerns, please provide me with the necessary details, such as the order number or any other relevant information, and I will be glad to assist you further.\n\nIs there anything else I can help you with today?",
+    "intent": "check_refund_policy",
+    "category": "refund"
+  },
+  {
+    "question": "is it possible to get a reimbursement?",
+    "reference": "Definitely! It is definitely possible to get a reimbursement. Our company values customer satisfaction and we strive to provide the best support in resolving any issues you may have encountered. To initiate the reimbursement process, I recommend reaching out to our customer support team. They will guide you through the necessary steps and assist you in submitting your reimbursement request. Remember, your satisfaction is our top priority, and we are here to ensure that you receive the reimbursement you deserve.",
+    "intent": "get_refund",
+    "category": "refund"
+  },
+  {
+    "question": "why I can't set up a secondary delivery address valid",
+    "reference": "I've noticed that you're facing difficulties in setting up a valid secondary delivery address. This could be due to several reasons, such as:\n\n1. Incorrect formatting: Please ensure that you're entering the address details correctly, including the street name, number, city, state, and zip code. Double-check for any typos or missing information.\n\n2. Invalid address: It's possible that the address you're trying to enter is not recognized by our system or is not eligible for delivery. In such cases, it's best to use a different address or contact our customer support for further assistance.\n\n3. Address restrictions: Certain areas may have restrictions or limitations when it comes to shipping. Please check if there are any specific shipping restrictions that may apply to your desired address.\n\nIf you have verified that none of the above issues are causing the problem, please provide more details about the error message or any specific error codes you're encountering. This will help us investigate the issue further and provide you with a more precise solution. Your satisfaction is our top priority, and we are here to help you every step of the way.",
+    "intent": "set_up_shipping_address",
+    "category": "shipping"
+  },
+  {
+    "question": "i need assistance to submit feedback about a service",
+    "reference": "We appreciate your inquiry to us for assistance with submitting feedback about our service. Your feedback is highly valued, as it helps us understand and meet your needs better. I'm here to guide you through the process of submitting your feedback. Could you please provide more details about the specific service you would like to provide feedback on? This will allow me to provide you with more personalized assistance.",
+    "intent": "review",
+    "category": "feedback"
+  },
+  {
+    "question": "need help cancelling purchase your order number",
+    "reference": "I've observed that you require assistance with canceling purchase your order number. Taking care of cancellations is of utmost importance to us, and I'm here to guide you through the process. Here are the steps you can follow:\n\n1. Sign in to Your Account: Start by logging in to your the ShopEase website or app.\n2. Access Your Order History: Once you're logged in, navigate to the 'My Orders' or 'My Orders' section.\n3. Locate the Purchase: Look for the purchase linked to the order number your order number and click on it to access the details.\n4. Initiate Cancellation: You'll find an option labeled 'My Orders' associated with your purchase. Please select it to initiate the cancellation process.\n5. Confirm Cancellation: Our system might ask for confirmation or additional feedback to complete the cancellation process. Kindly follow the prompts accordingly.\n\nIf you encounter any challenges or have further inquiries, our dedicated support team is available during 9 AM to 9 PM, Monday to Saturday. You can contact them at 1800-123-4567 or reach out through the Live Chat feature on our www.shopease.com. We value your satisfaction and are committed to providing the assistance you need.",
+    "intent": "cancel_order",
+    "category": "order"
+  },
+  {
+    "question": "filing consumer claim against ur organizzation",
+    "reference": "I'm sorry to hear that you need assistance with filing a consumer claim against our organization. I understand that this can be a frustrating situation, and I want to assure you that we take such matters seriously. Our priority is to ensure that your concerns are addressed promptly and effectively. To initiate the process, I recommend reaching out to our customer support team or visiting our website to find the relevant information and resources for filing a consumer claim. Our dedicated team will guide you through the necessary steps and gather all the details required to investigate your claim thoroughly. We appreciate your patience and cooperation throughout this process and will work diligently to resolve your issue.",
+    "intent": "complaint",
+    "category": "feedback"
+  },
+  {
+    "question": "can you help me subscribe to your newsletter?",
+    "reference": "I appreciate your interest in subscribing to our newsletter! I'd be more than happy to assist you with that. To proceed with the subscription, I will need your email address. Once you provide it, I will ensure that you start receiving our informative newsletters filled with the latest updates and exclusive offers. Rest assured that we value your privacy, and your email address will be handled with the utmost care. Thank you for choosing to stay connected with us through our newsletter!",
+    "intent": "newsletter_subscription",
+    "category": "subscription"
+  },
+  {
+    "question": "wat support trying to update my address",
+    "reference": "Of course! I'm here to assist you with updating your address. To do so, you can either log into your account on our website and navigate to the settings section, or you can reach out to our customer support team for further guidance. Let me know if there's anything specific you need help with during this process.",
+    "intent": "change_shipping_address",
+    "category": "shipping"
+  }
+]

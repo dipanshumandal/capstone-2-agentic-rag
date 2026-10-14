@@ -1,0 +1,3 @@
+pipeline,bleu,rouge1,rouge2,rougeL,relevance,context_precision,intent_accuracy
+agentic,0.0454,0.3614,0.1309,0.2315,0.7667,0.9875,1.0
+baseline,0.0338,0.2742,0.1151,0.1967,0.7411,0.95,

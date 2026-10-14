@@ -1,0 +1,14 @@
+.venv/
+.vscode/
+.env
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# the raw csv is 18 MB, download it again with the first notebook cells
+data/raw/
+data/eval/holdout.csv
+data/llm_cache/
+data/feedback/
